@@ -1,5 +1,6 @@
-# project
- Personal Firewall using Python
+Python-Based Network Firewall — Real-Time Monitoring & Threat Detection
+
+Built a Python firewall using Scapy to monitor, log, and classify live network traffic by direction and protocol, applying rule-based packet filtering to identify and mitigate common attack vectors.
 Day 1 – Monitoring Firewall
 
 Goal:
